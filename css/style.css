@@ -1,0 +1,25 @@
+
+p, table, h4 {
+	text-align: center; 
+	font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+p {
+	margin:10px;
+}
+
+th {
+	padding-left:10px;
+	padding-right:10px;
+	border-bottom: 1px solid;
+}
+
+td, #cdescript {
+	text-transform: capitalize;
+}
+
+#cdegree {
+	font-size:26px;
+
+}
