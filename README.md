@@ -7,4 +7,4 @@ From given City, Country:
 - Display next five days weather
 
 ### Installation
-Will be available on Chrome Store
+Click [here](https://chrome.google.com/webstore/detail/weathertoday/jadndhpknadcphgbbjmokjpfigdfajcp) to download from Chrome Web Store
